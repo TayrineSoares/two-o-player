@@ -6,6 +6,15 @@ class Player
     @lives = 3
   end
 
+  # PUBLIC METHODS
+  def lose_life 
+
+  end
+
+  
+
+
+
 end
 
 
